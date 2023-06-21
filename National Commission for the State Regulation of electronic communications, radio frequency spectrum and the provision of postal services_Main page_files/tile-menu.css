@@ -1,0 +1,346 @@
+.hor250 {
+    width: 248px !important;
+}
+
+.hor255 {
+    width: 255px !important;
+}
+
+.hor510 {
+    width: 506px !important;
+}
+
+.hor506 {
+    width: 506px !important;
+}
+
+.hor768 {
+    width: 764px !important;
+}
+
+
+.ver165 {
+    height: 165px !important;
+}
+
+.ver338 {
+    height: 338px !important;
+}
+
+.menu-tile {
+    width: 780px;
+}
+
+.fl {
+    float: left;
+}
+
+/* TILES STYLE */
+
+.tile .tile-content .content.one.ver330, .tile .tile-content .content.two.ver330 {
+    height: 338px !important;
+    /*color: #3677c0;*/
+}
+
+
+.tile .tile-content .content.one.ver3301, .tile .tile-content .content.two.ver3301 {
+    height: 338px !important;
+    color: #7dc211;
+}
+
+.tile .tile-content .content.two.ver330 {
+    top: 338px !important;
+}
+
+.tile img.zasady {
+    display: block;
+    margin: 0px 0px 0px 220px;
+}
+
+.tile img.structure {
+    display: block;
+    margin: 0px 0px 0px 80px;
+}
+
+
+.tile img.diyalnist {
+    display: block;
+    margin: 35px 0px 155px 79px;
+}
+
+.tile img.vzaemodiya {
+    display: block;
+    margin: 10px 0px 0px 220px;
+}
+
+.tile img.npb {
+    display: block;
+    margin: 0px 0px 0px 80px;
+}
+
+.tile img.zpk {
+    display: block;
+    margin: 0px 0px 0px 80px;
+}
+
+
+.tile img.faq {
+    display: block;
+    margin: 0px 0px 0px 80px;
+}
+
+.tile img.license {
+    display: block;
+    margin: 0px 0px 0px 220px;
+}
+
+.tile img.forms {
+    display: block;
+    margin: 0px 0px 0px 333px;
+}
+
+
+.tile img.reestr {
+    display: block;
+    margin: 0px 0px 0px 206px;
+}
+
+.tile img.admcontact {
+    display: block;
+    margin: 0px 0px 0px 80px;
+}
+
+.tile img.cert {
+    display: block;
+    margin: 0px 0px 0px 80px;
+}
+
+.tile img.zvitnist {
+    display: block;
+    margin: 0px 0px 0px 220px;
+}
+
+.tile img.zps {
+    display: block;
+    margin: 0px 0px 0px 220px;
+}
+
+.tile img.vidpovidi {
+    display: block;
+    margin: 0px 0px 0px 80px;
+}
+
+.tile img.zvern {
+    display: block;
+    margin: 0px 0px 0px 333px;
+}
+
+
+
+.tile h3, .tile h4 {
+    text-align: center;
+}
+
+.tile ul.ul-tile {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 193px;
+}
+
+.tile ul.ul-tile1 {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.tile ul.ul-tile a {
+    border: 0px;
+    padding: 0 20px;
+    display: block;
+    color: #FFF;
+    font: 14px/24px Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    height: auto !important;
+    height: 1%;
+}
+
+.tile ul.ul-tile1 a {
+    border: 0px;
+    padding: 0 20px;
+    display: block;
+    color: #FFF;
+    font: 14px/24px Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    height: auto !important;
+    height: 1%;
+}
+
+.tile ul.ul-tile a:hover {
+    background: #00A3E8;
+}
+
+.tile ul.ul-tile1 a:hover {
+    background: #3677c0;
+}
+
+
+.marine ul.ul-tile a:hover {
+    background: #00A3E8 !important;
+}
+
+.tile li {
+    list-style: none;
+}
+
+.tile {
+    display: block;
+    overflow: hidden;
+    color: #3677c0;
+    position: relative;
+    margin: 7px 8px 1px 0px;
+}
+
+.tile-g {
+    display: block;
+    overflow: hidden;
+    color: #7dc211;
+    position: relative;
+    margin: 7px 8px 1px 0px;
+}
+
+.tile div {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.tile img.center {
+    display: block;
+    margin: 2.188em auto auto auto;
+}
+
+.tile img.top {
+    display: block;
+    margin: 2.188em 0 0.313em 2.188em;
+    float: left;
+}
+
+.tile-content:hover {
+    cursor: pointer;
+}
+
+.tile .tile-content, .tile .tile-content-static, .tile-g {
+    display: block;
+    position: relative;
+}
+
+.tile .tile-content .content, .tile .tile-content-static .content {
+    display: block;
+    position: absolute;
+}
+
+.tile .tile-content .content.one, .tile .tile-content-static .content.one {
+    top: 0;
+    display: block;
+    height: 165px;
+}
+
+.tile .tile-content .content.two  {
+    top: 165px;
+    display: block;
+}
+        
+/*.tile .tile-content h1, .tile .tile-content-static h1*/
+.tile h1 {
+    color: #fff;
+    font-family: 'segoe ui', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 1.2em;
+    font-weight: 100;
+   /*font-size: 2.5em;*/;
+}
+ 
+
+
+/*colors*/       
+
+.green1 {
+    background: #7DC211;
+}
+
+.green {
+    background: #5EDB81;
+}
+
+.yellow {
+    background: #FFFF00;
+}
+
+.bl-blue, .bl-blue-1 {
+    background: #fff;
+    border: 1px solid #00A3E8;
+    color: #00A3E8;
+}
+
+
+.bl, .bl-1{
+   background: #fff;
+   border: 1px solid #3677c0;
+}
+
+.bl:hover  {
+   background: #3677c0;
+}
+
+.bl-1:hover  {
+
+}
+
+.bl-blue:hover {
+    background: #00A3E8;
+}
+
+.bl-blue-1:hover {
+
+}
+
+.bl-gr, .bl-gr-1{
+   background: #fff;
+   border: 1px solid #7dc211;
+   color: #7dc211;
+}
+
+.bl-gr:hover  {
+   background: #7dc211;
+}
+
+.bl-gr-1:hover  {
+
+}
+
+.marine {
+    background: #3677C0;
+}
+
+.orange {
+    background: #FAB058;
+}
+
+.pink {
+    background: #CB7EDA;
+}
+        
+.tile-content_link h3 a {
+    color: #3677c0;
+}
+
+.tile-content_link_bl_blue h3 a {
+    color: #00A3E8;
+}
+
+.tile-content_link_g h3 a {
+    color: #7dc211;
+}
